@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @falconDI
-- 👀 I am Data Analytics/Data Managment guy who loves green tea.
+- 👀 I am Data guy who loves green tea.
 - 🌱 
 - 💞️ 
 - 📫 
