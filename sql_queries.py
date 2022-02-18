@@ -74,9 +74,9 @@ time_table_insert = ("""INSERT INTO time (start_time, hour, day, week, month, ye
 
 # FIND SONGS
 
-song_select = ("""SELECT song_id, artist_id 
+song_select = ("""SELECT song_id, artists.artist_id 
                     FROM (songs Join artists ON songs.artist_id = artists.artist_id)
-                    WHERE title = %s AND name = %s AND duration = %s
+                    WHERE title = %s AND name = %s AND duration = %s;
                 
                         
 """)
