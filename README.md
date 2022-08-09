@@ -1,5 +1,5 @@
 Hi, I am Ethan Coolidge @falconDI.
-I am a Data Management/Data Analytics student at Western Govonors University. I have a strong passion for extracting, cleaning, and visulizing data for my own interest as well as for others.
+I am a Data Management/Data Analytics graduate from Western Govonors University. I have a strong passion for extracting, cleaning, and visulizing data for my own interest, as well as for others.
 
 If you would like to check out some of my best work, go to my MyUdacityProjects repository see my data analytics projects that I have completed.
 <!---
